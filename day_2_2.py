@@ -1,5 +1,4 @@
 file = open('day2_1.txt', 'r')
-#file = open('day_2_1_test.txt', 'r')
 
 lines = file.readlines()
 
